@@ -1,3 +1,23 @@
+body {
+    font-family: serif;
+}
+
+body {
+    background-color: #1496BB; /* Alice color */
+}
+
+body {
+    color: #ffffff; /* White color */
+}
+
+a {
+    color: #ffffff; /* White color */
+}
+
+a:hover {
+    color: #ffffff; /* White color */
+}
+
 .sidebar-nav {
     margin-top: 20px;
     padding: 0;
